@@ -1,5 +1,5 @@
-## Python: Logical Operators
-## Practice
+## Python: Logical Operators (Practice)
+
 ---
 ### Getting Started
 - Start by creating NEW project folder on your workstation desktop
