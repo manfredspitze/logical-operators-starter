@@ -3,7 +3,8 @@
 
 ### Directions
 
-Use the table below to predict the output of each code snippet.
+- Use the table below to predict the output of each code snippet.
+- For each code snippet, write whether the compound condition evaluates to `True` or `False` on the right side of the page
 
 ![Truth table for logical operators](boolean_operators.png "Truth table for logical operators")
 
